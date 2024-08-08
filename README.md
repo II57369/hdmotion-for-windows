@@ -1,7 +1,7 @@
 # hdmotion-for-windows
 通过 Windows API 读取硬盘指定扇区  Read specified sectors of the hard drive in LBA mode using Windows API
 
-原作 hdmotion for dos by by Jeremy Stanley
+原作 hdmotion for dos by Jeremy Stanley
 
 http://hdmotion.pingerthinger.com/hdmotion.zip
 
